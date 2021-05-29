@@ -1,12 +1,12 @@
 # IR-Task-1
 Incidence Matrix with C#
 
+_______________________________
+
 Made by:
 
     * Mahmoud Moahmed A
     * Marwan Atef A
-
-______________________________
 
     * محمود محمد عبد العزيز
       * قسم: معلوماتية حيوية
