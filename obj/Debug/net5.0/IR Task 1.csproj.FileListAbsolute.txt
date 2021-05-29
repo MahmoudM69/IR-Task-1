@@ -1,0 +1,16 @@
+E:\KCI\2021-2022\IR Task 1\IR Task 1\bin\Debug\net5.0\IR Task 1.exe
+E:\KCI\2021-2022\IR Task 1\IR Task 1\bin\Debug\net5.0\IR Task 1.deps.json
+E:\KCI\2021-2022\IR Task 1\IR Task 1\bin\Debug\net5.0\IR Task 1.runtimeconfig.json
+E:\KCI\2021-2022\IR Task 1\IR Task 1\bin\Debug\net5.0\IR Task 1.runtimeconfig.dev.json
+E:\KCI\2021-2022\IR Task 1\IR Task 1\bin\Debug\net5.0\IR Task 1.dll
+E:\KCI\2021-2022\IR Task 1\IR Task 1\bin\Debug\net5.0\ref\IR Task 1.dll
+E:\KCI\2021-2022\IR Task 1\IR Task 1\bin\Debug\net5.0\IR Task 1.pdb
+E:\KCI\2021-2022\IR Task 1\IR Task 1\obj\Debug\net5.0\IR Task 1.csprojAssemblyReference.cache
+E:\KCI\2021-2022\IR Task 1\IR Task 1\obj\Debug\net5.0\IR Task 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\KCI\2021-2022\IR Task 1\IR Task 1\obj\Debug\net5.0\IR Task 1.AssemblyInfoInputs.cache
+E:\KCI\2021-2022\IR Task 1\IR Task 1\obj\Debug\net5.0\IR Task 1.AssemblyInfo.cs
+E:\KCI\2021-2022\IR Task 1\IR Task 1\obj\Debug\net5.0\IR Task 1.csproj.CoreCompileInputs.cache
+E:\KCI\2021-2022\IR Task 1\IR Task 1\obj\Debug\net5.0\IR Task 1.dll
+E:\KCI\2021-2022\IR Task 1\IR Task 1\obj\Debug\net5.0\ref\IR Task 1.dll
+E:\KCI\2021-2022\IR Task 1\IR Task 1\obj\Debug\net5.0\IR Task 1.pdb
+E:\KCI\2021-2022\IR Task 1\IR Task 1\obj\Debug\net5.0\IR Task 1.genruntimeconfig.cache
